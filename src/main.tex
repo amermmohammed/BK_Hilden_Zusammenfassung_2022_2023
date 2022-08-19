@@ -1,0 +1,43 @@
+%! Author = amer
+%! Date = 18/08/2022
+
+% Preamble
+\documentclass[a4paper]{article}
+\usepackage{wasysym}
+\input{settings/packages}
+\input{settings/settings}
+
+% Packages
+
+% Document
+\begin{document}
+
+    %%% title page %%%%
+    \begin{titlepage}
+        \include{settings/titlepage}
+    \end{titlepage}
+    %%% title page %%%%
+
+    %%% lines to page %%%%
+    \include{settings/lines}
+    %%% end lines to page %%%
+
+    %%% table of contetn %%%%
+    \tableofcontents
+    \newpage
+    %%% table of contetn %%%%
+
+
+    \include{subjects/lf6/lf6_main}
+    \newpage
+    \include{subjects/lf7/lf7_main}
+    \newpage
+    \include{subjects/lf8/lf8_main}
+    \newpage
+    \include{subjects/lf9/lf9_main}
+    \newpage
+    \include{subjects/lf11/lf11_main}
+    \newpage
+    \include{subjects/wl/wl_main}
+
+\end{document}

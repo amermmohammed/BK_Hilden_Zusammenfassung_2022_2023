@@ -1,0 +1,13 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}TODO}{2}{section.1}%
+\contentsline {section}{\numberline {1}Grundlagen CPS - Umschalten}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Das "Internet der Dinge (engl. "Internet of Things" oder "oT")}{3}{subsection.1.1}%
+\contentsline {paragraph}{Ganz allgemein bezeichnet das Internet der Dinge Alltagsgegenstände, die sowohl mit Ihnen als auch mit anderen Geräten über das Internet kommunizieren.}{3}{section*.3}%
+\contentsline {paragraph}{Was ist die Vor und Nachteile der Nutzung von Smarthome}{3}{section*.5}%
+\contentsline {paragraph}{Viel Komfort -> wenig Sicherheit \\Viel Sicherheit -> wenig Komfort}{3}{section*.6}%
+\contentsline {section}{\numberline {1}Datenbankentwicklung}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Einführende Bemerkungen zu Datenbanken}{4}{subsection.1.1}%
+\contentsline {paragraph}{Beantworten Sie die folgenden Fragen mit Hilfe des Textes "Einführende Bemerkungen zu Datenbanken" und der Recherche im Internet.}{4}{section*.7}%
+\contentsline {section}{\numberline {1}TODO}{6}{section.1}%
+\contentsline {section}{\numberline {1}TODO}{7}{section.1}%
+\contentsline {section}{\numberline {1}TODO}{8}{section.1}%
